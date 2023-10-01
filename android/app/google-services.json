@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009253492473",
+    "project_id": "xcel-e638e",
+    "storage_bucket": "xcel-e638e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009253492473:android:52a8455b983e15ced5e428",
+        "android_client_info": {
+          "package_name": "com.xcel.medical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009253492473-3j25vuephg4cshaobfela7mqlindshie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPfgALKfPsSdFPg_YdunLk29Ajbvcz8pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009253492473-3j25vuephg4cshaobfela7mqlindshie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

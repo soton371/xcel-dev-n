@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1009253492473-r3bamioqruptb5iat4ek500g82pdovfg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1009253492473-r3bamioqruptb5iat4ek500g82pdovfg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1009253492473-kdp04d5k3q9tre2s0ce9mmrbrnknm5qn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAbnAxU6jpz-UUxHDUZZbz4GjI-2A-xU4s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1009253492473</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.xcel.medical.ios</string>
+	<key>PROJECT_ID</key>
+	<string>xcel-e638e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>xcel-e638e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1009253492473:ios:1d11fdc8d2688768d5e428</string>
+</dict>
+</plist>
